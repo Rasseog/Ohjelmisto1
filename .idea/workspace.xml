@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c57b579-48ad-480f-aff5-cb4588d4e438" name="Changes" comment="lisään assignments">
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 7/assignment-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 7/assignment-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 8/assignment-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 8/assignment-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 8/assignment-3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,7 @@
     "Python.assignment-6.executor": "Run",
     "Python.assignments-1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
@@ -75,6 +77,12 @@
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb",
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -104,7 +112,7 @@
       <workItem from="1769433031163" duration="302000" />
       <workItem from="1769433355522" duration="345000" />
       <workItem from="1769433726619" duration="128000" />
-      <workItem from="1769433877872" duration="8346000" />
+      <workItem from="1769433877872" duration="14946000" />
     </task>
     <task id="LOCAL−00001" summary="lisään assignment 1-2">
       <option name="closed" value="true" />
@@ -162,7 +170,14 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1769516986462</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="lisään assignments">
+      <option name="closed" value="true" />
+      <created>1769613957621</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1769613957621</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,10 +201,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject2$assignments_1.coverage" NAME="assignments-1 Coverage Results" MODIFIED="1769412286098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 2" />
-    <SUITE FILE_PATH="coverage/PythonProject2$assignment_2.coverage" NAME="assignment-2 Coverage Results" MODIFIED="1769514363159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 6" />
     <SUITE FILE_PATH="coverage/PythonProject2$assignment_4.coverage" NAME="assignment-4 Coverage Results" MODIFIED="1769515696029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 6" />
-    <SUITE FILE_PATH="coverage/PythonProject2$assignment_1.coverage" NAME="assignment-1 Coverage Results" MODIFIED="1769613464517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 7" />
-    <SUITE FILE_PATH="coverage/PythonProject2$assignment_3.coverage" NAME="assignment-3 Coverage Results" MODIFIED="1769515571577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 6" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_2.coverage" NAME="assignment-2 Coverage Results" MODIFIED="1769674099906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 8" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_1.coverage" NAME="assignment-1 Coverage Results" MODIFIED="1769672765872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 8" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_3.coverage" NAME="assignment-3 Coverage Results" MODIFIED="1769674628027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 8" />
     <SUITE FILE_PATH="coverage/PythonProject2$assignment_6.coverage" NAME="assignment-6 Coverage Results" MODIFIED="1769516916788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 6" />
     <SUITE FILE_PATH="coverage/PythonProject2$assignment_5.coverage" NAME="assignment-5 Coverage Results" MODIFIED="1769511352737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 4" />
   </component>
