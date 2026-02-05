@@ -1,40 +1,53 @@
-import csv
+import mysql.connector
 from geopy.distance import geodesic
 
 
 def get_airport_coordinates(icao_code):
+    connection = mysql.connector.connect(
+        host="localhost",
+        user="root",        # vaihda tarvittaessa
+        password="",        # vaihda tarvittaessa
+        database="flight_game"
+    )
 
-    with open('C:/Users/joona/Downloads/airports.csv', 'r', encoding='utf-8') as file:
-        csv_reader = csv.DictReader(file)
+    cursor = connection.cursor()
 
-        for row in csv_reader:
-            if row['ident'] == icao_code:
-                # Return coordinates as tuple (latitude, longitude)
-                latitude = float(row['latitude_deg'])
-                longitude = float(row['longitude_deg'])
-                return (latitude, longitude)
+    query = """
+    SELECT latitude_deg, longitude_deg
+    FROM airport
+    WHERE ident = %s
+    """
+    cursor.execute(query, (icao_code,))
+    result = cursor.fetchone()
 
-    return None
+    cursor.close()
+    connection.close()
+
+    return result
+
 
 def run_airport_distance():
-
-    icao1 = input("Enter the ICAO code of the first airport: ").upper()
-    icao2 = input("Enter the ICAO code of the second airport: ").upper()
+    icao1 = input(
+        "Enter the ICAO code of the first airport: "
+    ).upper()
+    icao2 = input(
+        "Enter the ICAO code of the second airport: "
+    ).upper()
 
     coords1 = get_airport_coordinates(icao1)
     coords2 = get_airport_coordinates(icao2)
 
-    if coords1 is None:
-        print(f"Airport {icao1} not found.")
+    if not coords1 or not coords2:
+        print(f"Airport with ICAO code {icao1 or icao2} not found in the database.")
         return
 
-    if coords2 is None:
-        print(f"Airport {icao2} not found.")
-        return
+    distance_km = geodesic(coords1, coords2).kilometers
 
-    distance = geodesic(coords1, coords2).kilometers
+    print(
+        f"\n\nDistance between {icao1} and {icao2}: "
+        f"{distance_km:.2f} kilometers"
+    )
 
-    print(f"\nDistance between {icao1} and {icao2}: {distance:.2f} kilometers")
 
-if __name__ == "__main__":
-    run_airport_distance()
+# Käynnistetään ohjelma
+run_airport_distance()

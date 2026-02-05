@@ -1,17 +1,24 @@
-import csv
+import mysql.connector
 
-icao_code = input("Enter the ICAO code of an airport: ").upper()
+db = mysql.connector.connect(
+    host='127.0.0.1',
+    port=3306,
+    database='flight_game',
+    user='root',
+    password='Qwerty7',
+    autocommit=True
+)
 
-found = False
-with open('C:/Users/joona/Downloads/airports.csv', 'r', encoding='utf-8') as file:
-    csv_reader = csv.DictReader(file)
+icao_code = input("Enter the ICAO code of an airport: ")
+sql = f'SELECT name, muncipality FROM airport'
 
-    for row in csv_reader:
-        if row['ident'] == icao_code:
-            print(f"Airport name: {row['name']}")
-            print(f"Location: {row['municipality']}")
-            found = True
-            break
+cursor = db.cursor()
+cursor.execute(icao_code.upper(),)
+result = cursor.fetchall()
 
-if not found:
+if not result:
     print(f"No airport found with ICAO code {icao_code}")
+else:
+    for row in result:
+        print(f"Airport name: {row[0]}")
+        print(f"Location: {row[1]}")
