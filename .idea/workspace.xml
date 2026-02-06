@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c57b579-48ad-480f-aff5-cb4588d4e438" name="Changes" comment="lisään assignments">
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 10/assignment-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 10/assignment-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 10/assignment-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 10/assignment-4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +116,7 @@
       <workItem from="1769433355522" duration="345000" />
       <workItem from="1769433726619" duration="128000" />
       <workItem from="1769433877872" duration="17455000" />
-      <workItem from="1770123232912" duration="10483000" />
+      <workItem from="1770123232912" duration="12115000" />
     </task>
     <task id="LOCAL−00001" summary="lisään assignment 1-2">
       <option name="closed" value="true" />
@@ -206,7 +202,14 @@
       <option name="presentableId" value="LOCAL−00012" />
       <updated>1770291221406</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL−00013" summary="lisään assignments">
+      <option name="closed" value="true" />
+      <created>1770398782001</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1770398782001</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
