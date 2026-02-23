@@ -5,8 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c57b579-48ad-480f-aff5-cb4588d4e438" name="Changes" comment="lisään assignments">
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 12/assignment-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 12/assignment-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,44 +86,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.assignment-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignment-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignment-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignment-4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignment-5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignment-6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignments-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_search.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/joona/PycharmProjects/PythonProject2/Ohjelmisto_1/Module 2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.assignment-1.executor": "Run",
+    "Python.assignment-10.executor": "Run",
+    "Python.assignment-11.executor": "Run",
+    "Python.assignment-12.executor": "Run",
+    "Python.assignment-13.executor": "Run",
+    "Python.assignment-14.executor": "Run",
+    "Python.assignment-15.executor": "Run",
+    "Python.assignment-16.executor": "Run",
+    "Python.assignment-17.executor": "Run",
+    "Python.assignment-18.executor": "Run",
+    "Python.assignment-19.executor": "Run",
+    "Python.assignment-2.executor": "Run",
+    "Python.assignment-20.executor": "Run",
+    "Python.assignment-21.executor": "Run",
+    "Python.assignment-22.executor": "Run",
+    "Python.assignment-23.executor": "Run",
+    "Python.assignment-24.executor": "Run",
+    "Python.assignment-25.executor": "Run",
+    "Python.assignment-26.executor": "Run",
+    "Python.assignment-27.executor": "Run",
+    "Python.assignment-28.executor": "Run",
+    "Python.assignment-29.executor": "Run",
+    "Python.assignment-3.executor": "Run",
+    "Python.assignment-30.executor": "Run",
+    "Python.assignment-31.executor": "Run",
+    "Python.assignment-32.executor": "Run",
+    "Python.assignment-33.executor": "Run",
+    "Python.assignment-34.executor": "Run",
+    "Python.assignment-35.executor": "Run",
+    "Python.assignment-36.executor": "Run",
+    "Python.assignment-4.executor": "Run",
+    "Python.assignment-5.executor": "Run",
+    "Python.assignment-6.executor": "Run",
+    "Python.assignment-7.executor": "Run",
+    "Python.assignment-8.executor": "Run",
+    "Python.assignment-9.executor": "Run",
+    "Python.assignments-1.executor": "Run",
+    "Python.file_search.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/joona/PycharmProjects/PythonProject2/Ohjelmisto_1/Module 2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mariadb&quot;,
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb",
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\joona\PycharmProjects\PythonProject2\Ohjelmisto_1\Module 2" />
@@ -119,7 +183,8 @@
       <workItem from="1769433726619" duration="128000" />
       <workItem from="1769433877872" duration="17455000" />
       <workItem from="1770123232912" duration="12524000" />
-      <workItem from="1770808275087" duration="300000" />
+      <workItem from="1770808275087" duration="7060000" />
+      <workItem from="1771848782587" duration="732000" />
     </task>
     <task id="LOCAL−00001" summary="lisään assignment 1-2">
       <option name="closed" value="true" />
@@ -219,7 +284,14 @@
       <option name="presentableId" value="LOCAL−00014" />
       <updated>1770404167943</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL−00015" summary="lisään assignments">
+      <option name="closed" value="true" />
+      <created>1770808586541</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1770808586541</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,13 +314,43 @@
     <option name="LAST_COMMIT_MESSAGE" value="lisään assignments" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject2$assignments_1.coverage" NAME="assignments-1 Coverage Results" MODIFIED="1769412286098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 2" />
-    <SUITE FILE_PATH="coverage/PythonProject2$assignment_4.coverage" NAME="assignment-4 Coverage Results" MODIFIED="1769515696029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 6" />
-    <SUITE FILE_PATH="coverage/PythonProject2$assignment_2.coverage" NAME="assignment-2 Coverage Results" MODIFIED="1770404129030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 11" />
-    <SUITE FILE_PATH="coverage/PythonProject2$assignment_1.coverage" NAME="assignment-1 Coverage Results" MODIFIED="1770404011310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 11" />
-    <SUITE FILE_PATH="coverage/PythonProject2$assignment_3.coverage" NAME="assignment-3 Coverage Results" MODIFIED="1770398617315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 10" />
-    <SUITE FILE_PATH="coverage/PythonProject2$assignment_6.coverage" NAME="assignment-6 Coverage Results" MODIFIED="1769516916788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 6" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_32.coverage" NAME="assignment-32 Coverage Results" MODIFIED="1770816283154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_35.coverage" NAME="assignment-35 Coverage Results" MODIFIED="1771849320940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_12.coverage" NAME="assignment-12 Coverage Results" MODIFIED="1770813016584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_29.coverage" NAME="assignment-29 Coverage Results" MODIFIED="1770815855964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_3.coverage" NAME="assignment-3 Coverage Results" MODIFIED="1770809307668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_26.coverage" NAME="assignment-26 Coverage Results" MODIFIED="1770815469643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_23.coverage" NAME="assignment-23 Coverage Results" MODIFIED="1770814783899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
     <SUITE FILE_PATH="coverage/PythonProject2$file_search.coverage" NAME="file_search Coverage Results" MODIFIED="1770124393211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
-    <SUITE FILE_PATH="coverage/PythonProject2$assignment_5.coverage" NAME="assignment-5 Coverage Results" MODIFIED="1769511352737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 4" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_7.coverage" NAME="assignment-7 Coverage Results" MODIFIED="1770809859811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_11.coverage" NAME="assignment-11 Coverage Results" MODIFIED="1770812777415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_17.coverage" NAME="assignment-17 Coverage Results" MODIFIED="1770813665725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_4.coverage" NAME="assignment-4 Coverage Results" MODIFIED="1770809430807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_1.coverage" NAME="assignment-1 Coverage Results" MODIFIED="1770809051321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_14.coverage" NAME="assignment-14 Coverage Results" MODIFIED="1770813238926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_6.coverage" NAME="assignment-6 Coverage Results" MODIFIED="1770809645695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_20.coverage" NAME="assignment-20 Coverage Results" MODIFIED="1770814120254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_34.coverage" NAME="assignment-34 Coverage Results" MODIFIED="1771849182090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_19.coverage" NAME="assignment-19 Coverage Results" MODIFIED="1770813962363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_9.coverage" NAME="assignment-9 Coverage Results" MODIFIED="1770810275065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_28.coverage" NAME="assignment-28 Coverage Results" MODIFIED="1770815745351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_2.coverage" NAME="assignment-2 Coverage Results" MODIFIED="1770809224744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_22.coverage" NAME="assignment-22 Coverage Results" MODIFIED="1770814582985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_8.coverage" NAME="assignment-8 Coverage Results" MODIFIED="1770810159975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_16.coverage" NAME="assignment-16 Coverage Results" MODIFIED="1770813454644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_10.coverage" NAME="assignment-10 Coverage Results" MODIFIED="1770810416018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_25.coverage" NAME="assignment-25 Coverage Results" MODIFIED="1770815063144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_31.coverage" NAME="assignment-31 Coverage Results" MODIFIED="1770816201412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_13.coverage" NAME="assignment-13 Coverage Results" MODIFIED="1770813134045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignments_1.coverage" NAME="assignments-1 Coverage Results" MODIFIED="1769412286098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 2" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_21.coverage" NAME="assignment-21 Coverage Results" MODIFIED="1770814252984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_33.coverage" NAME="assignment-33 Coverage Results" MODIFIED="1770816358288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_36.coverage" NAME="assignment-36 Coverage Results" MODIFIED="1771849501526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_27.coverage" NAME="assignment-27 Coverage Results" MODIFIED="1770815639972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_18.coverage" NAME="assignment-18 Coverage Results" MODIFIED="1770813876183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_5.coverage" NAME="assignment-5 Coverage Results" MODIFIED="1770809532954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_24.coverage" NAME="assignment-24 Coverage Results" MODIFIED="1770814900549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_30.coverage" NAME="assignment-30 Coverage Results" MODIFIED="1770816130410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
+    <SUITE FILE_PATH="coverage/PythonProject2$assignment_15.coverage" NAME="assignment-15 Coverage Results" MODIFIED="1770813367496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto_1/Module 13" />
   </component>
 </project>
