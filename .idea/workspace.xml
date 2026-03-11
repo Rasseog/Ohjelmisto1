@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c57b579-48ad-480f-aff5-cb4588d4e438" name="Changes" comment="Lentopelin yksilö ohjeet ja git rakenne">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-30.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto_1/Module 13/assignment-30.py" afterDir="false" />
-    </list>
+    <list default="true" id="0c57b579-48ad-480f-aff5-cb4588d4e438" name="Changes" comment="Lisään assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +147,7 @@
       <workItem from="1769433877872" duration="17455000" />
       <workItem from="1770123232912" duration="12524000" />
       <workItem from="1770808275087" duration="7060000" />
-      <workItem from="1771848782587" duration="2835000" />
+      <workItem from="1771848782587" duration="2969000" />
     </task>
     <task id="LOCAL−00001" summary="lisään assignment 1-2">
       <option name="closed" value="true" />
@@ -271,7 +268,14 @@
       <option name="presentableId" value="LOCAL−00017" />
       <updated>1771937113848</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL−00018" summary="Lentopelin yksilö ohjeet ja git rakenne">
+      <option name="closed" value="true" />
+      <created>1771938117810</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1771938117810</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

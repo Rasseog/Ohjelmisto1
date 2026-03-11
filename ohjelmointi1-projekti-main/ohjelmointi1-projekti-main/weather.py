@@ -4,11 +4,12 @@ import requests
 API_KEY = "5eab0b3b130c52fee46949ac7b8800c4"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
+
 def get_weather_for_airport(airport: dict) -> dict:
     """
     Hakee ajantasaisen sään lentokentän koordinaateilla.
 
-    airport-esimerkki:
+    airport:
     {
         "icao": "EFHK",
         "name": "Helsinki Vantaa Airport",
@@ -16,25 +17,13 @@ def get_weather_for_airport(airport: dict) -> dict:
         "lat": 60.3172,
         "lon": 24.9633
     }
-
-    Palauttaa esim:
-    {
-        "label": "Rain",
-        "multiplier": 1.3,
-        "temperature": 12.4,
-        "wind_speed": 6.1,
-        "description": "light rain"
-    }
     """
-    lat = airport["lat"]
-    lon = airport["lon"]
-
     params = {
-        "lat": lat,
-        "lon": lon,
+        "lat": airport["lat"],
+        "lon": airport["lon"],
         "appid": API_KEY,
         "units": "metric",
-        "lang": "en"
+        "lang": "en",
     }
 
     try:
@@ -44,40 +33,39 @@ def get_weather_for_airport(airport: dict) -> dict:
 
         weather_main = data["weather"][0]["main"]
         description = data["weather"][0]["description"]
-        wind_speed = data["wind"]["speed"]
         temperature = data["main"]["temp"]
+        wind_speed = data["wind"]["speed"]
 
-        # Yksinkertainen pelilogiikka kulutukselle
+        # Pelin kulutuskerroin säästä
         if weather_main == "Clear":
-            multiplier = 1.0
             label = "Clear"
-        elif weather_main in ("Clouds",):
-            multiplier = 1.1
+            multiplier = 1.0
+        elif weather_main == "Clouds":
             label = "Cloudy"
+            multiplier = 1.1
         elif weather_main in ("Drizzle", "Rain"):
-            multiplier = 1.3
             label = "Rain"
+            multiplier = 1.3
         elif weather_main in ("Thunderstorm", "Snow"):
-            multiplier = 1.6
             label = "Storm"
+            multiplier = 1.6
         else:
-            multiplier = 1.2
             label = weather_main
+            multiplier = 1.2
 
         return {
             "label": label,
             "multiplier": multiplier,
             "temperature": temperature,
             "wind_speed": wind_speed,
-            "description": description
+            "description": description,
         }
 
     except requests.RequestException:
-        # Varasää jos API ei vastaa
         return {
             "label": "Unknown",
             "multiplier": 1.2,
             "temperature": None,
             "wind_speed": None,
-            "description": "weather unavailable"
+            "description": "weather unavailable",
         }
